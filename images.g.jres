@@ -1,0 +1,12 @@
+{
+    "image1": {
+        "data": "hwQQABAAAAAAAACgCgAAAAAAAFCqAKoAAAAAWqUKCgAAAKCapaoKAAAAoJlZqgAAAACqmamqoAAAAKqZqaqqAAAAqpmpqgAAAACqmVmqqgAAAKqZWaqgAAAAqplZqgAAAACgmaWqAAAAAACapaoKAAAAAFCqCgoAAAAAUKoAqgAAAACgCgAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "SpaceCraft"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
